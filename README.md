@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xabierlameiro
 - 👀 I’m interested in web application development
-- 🌱 I'm currently learning to use google cloud tools.
+- 🌱 I'm currently learning Nextjs 13 changes.
 - 💞️ I’m looking to collaborate on cool ideas
 - 📫 How to reach me https://www.linkedin.com/in/xlameiro/
 
