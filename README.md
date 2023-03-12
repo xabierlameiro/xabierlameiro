@@ -1,1 +1,1 @@
-![Hi there](background.svg) 
+![Hi there](bg.svg) 
