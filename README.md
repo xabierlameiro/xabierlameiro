@@ -1,1 +1,1 @@
-## Hey, Xabi here!! :wave:
+![Hi there](picture.svg)
