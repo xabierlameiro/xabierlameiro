@@ -1,11 +1,9 @@
-![Hi there](background.svg)
-
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Firebase, Prisma
-- **Testing**: Jest, Vitest, Playwright
-- **Cloud**: Vercel, Firebase, Heroku
+- **Frontend**: React, Next.js, TypeScript
+- **Backend**: Node.js, Python
+- **Testing**: Vitest, Playwright
+- **Cloud**: AWS, Vercel, GC
 
 ## 📌 Featured Projects
 
