@@ -57,11 +57,6 @@
 ### 📊 GitHub in numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xabierlameiro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" alt="Xabier's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xabierlameiro&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=xabierlameiro&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
 
