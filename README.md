@@ -11,8 +11,6 @@
   <a href="https://xabierlameiro.com"><img src="https://img.shields.io/badge/Website-xabierlameiro.com-2563eb?style=flat-square&logo=firefox&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/xabierlameiro"><img src="https://img.shields.io/badge/LinkedIn-in/xabierlameiro-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=xabierlameiro&style=flat-square&color=2563eb&label=Profile+views" alt="Profile views"/>
-  [![committers.top badge](https://user-badge.committers.top/spain/USERNAME.svg)](https://user-badge.committers.top/spain/USERNAME)
-  [![committers.top badge](https://org-badge.committers.top/spain/ORGNAME.svg)](https://org-badge.committers.top/spain/ORGNAME)
 </p>
 
 ---
