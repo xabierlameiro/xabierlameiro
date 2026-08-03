@@ -7,6 +7,10 @@
   <br/>with an obsession for clean architecture, strong typing and tests that actually catch bugs.
 </p>
 
+<p></p>
+
+
+
 <p align="center">
   <a href="https://xabierlameiro.com"><img src="https://img.shields.io/badge/Website-xabierlameiro.com-2563eb?style=flat-square&logo=firefox&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/xabierlameiro"><img src="https://img.shields.io/badge/LinkedIn-in/xabierlameiro-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,7 +19,12 @@
 
 ---
 
+
 ### 🧭 About me
+
+[![committers.top badge](https://user-badge.committers.top/spain/xabierlameiro.svg)](https://user-badge.committers.top/spain/xabierlameiro)
+[![committers.top badge](https://user-badge.committers.top/spain_private/xabierlameiro.svg)](https://user-badge.committers.top/spain_private/xabierlameiro)
+
 
 - 🏗️ **Software Architect** focused on frontend architecture and cloud-native delivery.
 - ⚡ I care about developer experience: type safety, fast feedback loops and readable code that survives.
