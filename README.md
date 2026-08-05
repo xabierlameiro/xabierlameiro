@@ -23,6 +23,7 @@
 ### 🧭 About me
 
 [![committers.top badge](https://user-badge.committers.top/spain/xabierlameiro.svg)](https://user-badge.committers.top/spain/xabierlameiro)
+[![committers.top badge](https://user-badge.committers.top/spain_public/xabierlameiro.svg)](https://user-badge.committers.top/spain_public/xabierlameiro)
 [![committers.top badge](https://user-badge.committers.top/spain_private/xabierlameiro.svg)](https://user-badge.committers.top/spain_private/xabierlameiro)
 
 
