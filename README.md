@@ -25,7 +25,7 @@
 [![committers.top badge](https://user-badge.committers.top/spain_private/xabierlameiro.svg)](https://user-badge.committers.top/spain_private/xabierlameiro)<br/>
 [![committers.top badge](https://user-badge.committers.top/spain/xabierlameiro.svg)](https://user-badge.committers.top/spain/xabierlameiro)<br/>
 [![committers.top badge](https://user-badge.committers.top/spain_public/xabierlameiro.svg)](https://user-badge.committers.top/spain_public/xabierlameiro)<br/>
-
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/xabierlameiro.svg)](https://ghcommits.com/u/xabierlameiro)
 
 
 - 🏗️ **Software Architect** focused on frontend architecture and cloud-native delivery.
